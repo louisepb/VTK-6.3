@@ -1,3 +1,9 @@
+VTK-6.3.0
+=========
+This is the complete VTK-6.3.0 code. It is saved here for use in building TexGen until we have had time to make the changes necessary for TexGen to build with more recent versions of VTK. Below is the original README for the version:
+
+
+
 ![VTK - The Visualization Toolkit](vtkBanner.gif)
 
 Introduction
